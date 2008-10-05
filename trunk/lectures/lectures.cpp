@@ -2,7 +2,6 @@
 #include <string>
 
 #include "curl/curl.h"
-#include "curl/easy.h"
   
 using namespace std;  
   
