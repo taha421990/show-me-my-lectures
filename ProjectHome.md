@@ -1,0 +1,1 @@
+This project aims to create an easy method of accessing your university timetable from an online service, downloading it and formatting it into open calendar formats suitable for importing into a wide variety of existing applications.
